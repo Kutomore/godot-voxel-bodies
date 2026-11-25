@@ -1,0 +1,9 @@
+; Engine configuration file.
+
+config_version=5
+
+[application]
+
+config/name="Godot Voxel Bodies"
+config/description="Bodies made of voxels for Godot 4 that move by contracting their own voxels; removing voxels changes what a body can do."
+config/features=PackedStringArray("4.7")
